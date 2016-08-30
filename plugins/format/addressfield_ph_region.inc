@@ -17,7 +17,7 @@ function _addressfield_ph_region_list() {
     t('luz - Region IV-B') => t('Region IV-B - Mimaropa'),
     t('luz - Region V') => t('Region V - Bicol Region'),
     t('vis - Region VI') => t('Region VI - Western Visayas'),
-    t('vis - NIR / Region XVIII') => t('NIR / Region XVIII - Negros Island Region'),
+    t('vis - Region XVIII') => t('NIR / Region XVIII - Negros Island Region'),
     t('vis - Region VII') => t('Region VII - Central Visayas'),
     t('vis - Region VIII') => t('Region VIII - Eastern Visayas'),
     t('min - Region IX') => t('Region IX - Zamboanga Peninsula'),
