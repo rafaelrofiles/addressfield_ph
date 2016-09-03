@@ -6,7 +6,7 @@ function _locality_list($region) {
 
 
 	$list = array(
-		'luz - NCR' => array(
+		'Luzon - NCR' => array(
 			t('Caloocan'),
 			t('Las Piñas'),
 			t('Makati'),
@@ -25,14 +25,14 @@ function _locality_list($region) {
 			t('Taguig'),
 			t('Valenzuela'),
 		),
-		'luz - Region I' => array(
+		'Luzon - Region I' => array(
 			t('Dagupan'),
 			t('Ilocos Norte'),
 			t('Ilocos Sur'),
 			t('La Union'),
 			t('Pangasinan'),
 		),
-		'luz - CAR' => array(
+		'Luzon - CAR' => array(
 			t('Abra'),
 			t('Apayao'),
 			t('Benguet'),
@@ -41,14 +41,14 @@ function _locality_list($region) {
 			t('Mountain Province'),
 			t('Baguio'),
 		),
-		'luz - Region II' => array(
+		'Luzon - Region II' => array(
 			t('Batanes'),
 			t('Cagayan'),
 			t('Isabela'),
 			t('Nueva Vizcaya'),
 			t('Quirino'),
 		),
-		'luz - Region III' => array(
+		'Luzon - Region III' => array(
 			t('Aurora'),
 			t('Bataan'),
 			t('Bulacan'),
@@ -59,7 +59,7 @@ function _locality_list($region) {
 			t('Angeles'),
 			t('Olongapo'),
 		),
-		'luz - Region IV-A' => array(
+		'Luzon - Region IV-A' => array(
 			t('Batangas'),
 			t('Cavite'),
 			t('Laguna'),
@@ -67,19 +67,19 @@ function _locality_list($region) {
 			t('Rizal'),
 			t('Lucena'),
 		),
-		'luz - Region IV-B' => array(
+		'Luzon - Region IV-B' => array(
 			t('Marinduque'),
 			t('Occidental Mindoro'),
 			t('Oriental Mindoro'),
 			t('Palawan'),
 			t('Romblon'),
 		),
-		'luz - Region V' => array(
+		'Luzon - Region V' => array(
 			t('Albay'),
 			t('Camarines Norte'),
 			t('Camarines Sur'),
 		),
-		'vis - Region VI' => array(
+		'Visayas - Region VI' => array(
 			t('Aklan'),
 			t('Antique'),
 			t('Capiz'),
@@ -87,7 +87,7 @@ function _locality_list($region) {
 			t('Iloilo'),
 			t('Iloilo City'),
 		),
-		'vis - Region VII' => array(
+		'Visayas - Region VII' => array(
 			t('Bohol'),
 			t('Cebu'),
 			t('Siquijor'),
@@ -95,7 +95,7 @@ function _locality_list($region) {
 			t('Lapu-lapu'),
 			t('Mandaue'),
 		),
-		'vis - Region VIII' => array(
+		'Visayas - Region VIII' => array(
 			t('Biliran'),
 			t('Eastern Samar'),
 			t('Leyte'),
@@ -104,19 +104,19 @@ function _locality_list($region) {
 			t('Southern Leyte'),
 			t('Tacloban'),
 		),
-		'vis - Region XVIII' => array(
+		'Visayas - Region XVIII' => array(
 			t('Negros Occidental'),
 			t('Negros Oriental'),
 			t('Bacolod'),
 		),
-		'min - Region IX' => array(
+		'Mindanao - Region IX' => array(
 			t('Zamboanga del Norte'),
 			t('Zamboanga del Sur'),
 			t('Zamboanga Sibugay'),
 			t('Zamboanga City'),
 			t('Isabela City'),
 		),
-		'min - Region X' => array(
+		'Mindanao - Region X' => array(
 			t('Bukidnon'),
 			t('Camiguin'),
 			t('Lanao del Norte'),
@@ -125,7 +125,7 @@ function _locality_list($region) {
 			t('Cagayan de Oro'),
 			t('Iligan'),
 		),
-		'min - Region XI' => array(
+		'Mindanao - Region XI' => array(
 			t('Compostela Valley'),
 			t('Davao del Norte'),
 			t('Davao del Sur'),
@@ -133,7 +133,7 @@ function _locality_list($region) {
 			t('Davao Oriental'),
 			t('Davao City'),
 		),
-		'min - Region XII' => array(
+		'Mindanao - Region XII' => array(
 			t('Cotabato'),
 			t('Sarangani'),
 			t('South Cotabato'),
@@ -141,7 +141,7 @@ function _locality_list($region) {
 			t('Cotabato City'),
 			t('General Santos'),
 		),
-		'min - Region XIII' => array(
+		'Mindanao - Region XIII' => array(
 			t('Agusan del Norte'),
 			t('Agusan del Sur'),
 			t('Dinagat Islands'),
@@ -149,7 +149,7 @@ function _locality_list($region) {
 			t('Surigao del Sur'),
 			t('Butuan'),
 		),
-		'min - ARMM' => array(
+		'Mindanao - ARMM' => array(
 			t('Basilan'),
 			t('Lanao del Sur'),
 			t('Maguindanao'),
